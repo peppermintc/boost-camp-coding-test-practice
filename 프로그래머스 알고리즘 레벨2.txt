@@ -48,3 +48,6 @@ dictionary로 간단하게 해결
 효율성이 통과를 계속 못해서 다른사람 풀이를 보고 알게됨
 리스트 append pop으로 시간 초과나면
 heapq 사용하여 해결 가능
+# 최솟값 만들기
+5분만에 푼 문제 쉬운 문제 
+sort의 내림차순 이용 sort(reverse=True)
