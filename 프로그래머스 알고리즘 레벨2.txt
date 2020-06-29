@@ -78,3 +78,6 @@ for index, answer in enumerate(answers):
 ## 구명보트 (Level 2)
 45분간 시도 후에 포기 예제 2가지 케이스는 성공했지만 여러 케이스 채점 시 실패
 다른 사람 풀이를보고 index를 이용하여 푼 것을 확인
+
+# 행렬의 곱셈 (Level 2)
+41분 소요, 복잡
