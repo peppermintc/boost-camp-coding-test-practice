@@ -91,3 +91,7 @@ https://codedrive.tistory.com/82 -> 이해가지 않음
 heapq 최대 heap heappush heappop
 https://johnyejin.tistory.com/74 -> 가장 이해하기 쉬웠던 풀이
 다시 풀어보았지만 나중에 언제라도 다시 풀수있을지 의문이 들만큼 어려운 문제
+
+2. 숫자의 표현
+숫자의 표현 금방 풀었던 문제
+
