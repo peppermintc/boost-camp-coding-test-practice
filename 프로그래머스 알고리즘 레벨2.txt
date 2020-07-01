@@ -104,3 +104,8 @@ https://johnyejin.tistory.com/74 -> 가장 이해하기 쉬웠던 풀이
 풀듯 말듯하다가 못풀고 다른사람 풀이보았음
 itertools permutations을 사용했을 때 중복이 되는 것을
 combinations를 이용하면 중복이 없게 할 수 있다
+
+5. JadenCase 문자열 만들기
+쉽게 풀이 완료
+isalpha(), upper(), lower(), .split(' ), ' '.join() 사용
+
