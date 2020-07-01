@@ -109,3 +109,10 @@ combinations를 이용하면 중복이 없게 할 수 있다
 쉽게 풀이 완료
 isalpha(), upper(), lower(), .split(' ), ' '.join() 사용
 
+6. 숫자 야구
+반만 맞고 반은 틀림
+해설을 보아도 어려워서 안보게되는 문제
+
+7. 폰켓몬
+itertools combinations으로 완전 탐색하려 했으나 시간 초과
+그래서 복잡한 것 사용하지 않고 if else로 하였더니 성공
