@@ -13,6 +13,7 @@
 2. 두 개 뽑아서 더하기
 3. 완주하지 못한 선수
 4. 모의고사
+5. 체육복
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
