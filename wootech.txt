@@ -16,6 +16,7 @@
 5. 체육복
 6. K번째수
 7. 2016년
+8. 가운데 글자 가져오기
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
