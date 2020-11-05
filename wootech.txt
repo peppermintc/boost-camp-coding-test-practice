@@ -40,6 +40,7 @@
 28. 짝수와 홀수
 29. 키패드 누르기
 30. 최대공약수와 최소공배수
+31. 콜라츠 추측
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
