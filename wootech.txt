@@ -38,6 +38,7 @@
 26. 정수 제곱근 판별
 27. 제일 작은 수 제거하기
 28. 짝수와 홀수
+29. 키패드 누르기
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
