@@ -32,6 +32,7 @@
 21. 시저 암호
 22. 약수의 합
 23. 이상한 문자 만들기
+24. 자릿수 더하기
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
