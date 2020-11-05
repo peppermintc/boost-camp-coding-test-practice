@@ -19,6 +19,7 @@
 8. 가운데 글자 가져오기
 9. 3진법 뒤집기
 10. 같은 숫자는 싫어
+11. 나누어 떨어지는 숫자 배열
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
