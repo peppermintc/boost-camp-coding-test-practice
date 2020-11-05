@@ -34,6 +34,7 @@
 23. 이상한 문자 만들기
 24. 자릿수 더하기
 25. 자연수 뒤집어 배열로 만들기
+25. 정수 내림차순으로 배치하기
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
