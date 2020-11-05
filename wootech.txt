@@ -37,6 +37,7 @@
 25. 정수 내림차순으로 배치하기
 26. 정수 제곱근 판별
 27. 제일 작은 수 제거하기
+28. 짝수와 홀수
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
