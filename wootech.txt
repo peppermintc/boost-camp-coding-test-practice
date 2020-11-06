@@ -44,6 +44,7 @@
 32. 평균 구하기
 33. 하샤드 수
 34. 핸드폰 번호 가리기
+35. 행렬의 덧셈
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
