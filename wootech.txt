@@ -45,6 +45,7 @@
 33. 하샤드 수
 34. 핸드폰 번호 가리기
 35. 행렬의 덧셈
+36. x만큼 간격이 있는 n개의 숫자
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
