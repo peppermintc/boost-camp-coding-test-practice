@@ -43,6 +43,7 @@
 31. 콜라츠 추측
 32. 평균 구하기
 33. 하샤드 수
+34. 핸드폰 번호 가리기
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
