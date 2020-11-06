@@ -50,6 +50,7 @@
 39. 내적
 40. 정수 내림차순으로 배치하기
 41. [1차] 비밀지도
+42. 실패율
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
