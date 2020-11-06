@@ -51,6 +51,7 @@
 40. 정수 내림차순으로 배치하기
 41. [1차] 비밀지도
 42. 실패율
+43. [1차] 다트 게임
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
