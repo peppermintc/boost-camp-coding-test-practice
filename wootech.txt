@@ -54,6 +54,7 @@
 43. [1차] 다트 게임
 레벨2
 1. 스킬트리
+2. 주식가격
 
 # Leetcode
 1. 1266. Minimum Time Visiting All Pointsㅣ
